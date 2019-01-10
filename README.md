@@ -1,5 +1,7 @@
 # Snowstorm Welcome Packet
 
+![](Tricorn.jpg)
+
 # Introduction
 
 Welcome to Snowstorm! If you’re reading this guide it's very likely you’re new to the clan. We use this guide to share useful information and resources for players new to the Clan.
