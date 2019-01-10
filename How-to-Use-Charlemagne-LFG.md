@@ -36,3 +36,6 @@ A typical LFG listing looks like:
 3. Some questions are open text input so you just need to review what you're being asked and type into the same channel your response.
 
 If you make a mistake when creating your event you can edit via **`!lfg edit (listing number)`** or you can delete the event and start over **`!lfg delete (listing number)`**
+
+
+[Back to Home](https://github.com/snowstormclan/Welcome-Packet/blob/master/README.md)
