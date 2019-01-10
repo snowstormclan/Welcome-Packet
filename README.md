@@ -1,6 +1,9 @@
 # Snowstorm Welcome Packet
 
+<!---
 ![](Tricorn.jpg)
+--->
+<img src="Tricorn.jpg" width="300"/>
 
 # Introduction
 
