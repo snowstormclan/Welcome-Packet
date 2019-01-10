@@ -8,7 +8,7 @@ If you have any suggestions or feedback for the guide please share them in Disco
 
 # Using Discord LFG
 
-[How to Use Charlemagne LFG](./How-to-Use-Charlemagne-LFG-aab0966f-7108-41fa-a258-9a9560d6f63d.md)
+[How to Use Charlemagne LFG](./Welcome-Packet/How-to-Use-Charlemagne-LFG.md)
 
 ---
 
