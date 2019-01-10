@@ -14,25 +14,25 @@ If you have any suggestions or feedback for the guide please share them in Disco
 
 # How to Switch to EU (and why we do it):
 
-[Blind Well & Escalation Protocol Trick](./Blind-Well-Escalation-Protocol-Trick-ea0bb914-ba16-476c-ac4a-fee55f509469.md)
+[Blind Well & Escalation Protocol Trick](https://github.com/snowstormclan/Welcome-Packet/blob/master/Blind-Well-Escalation-Protocol-Trick.md)
 
 ---
 
 # Clan XP & Inactivity
 
-[Clan Explanation](./Clan-Explanation-60f4601c-aed9-4559-869b-24f92f9ffc64.md)
+[Clan Explanation](https://github.com/snowstormclan/Welcome-Packet/blob/master/Clan-Explanation.md)
 
 ---
 
 # Gambit
 
-[Gambit Tips](./Gambit-Tips-a2b3d325-3d24-4fa0-a576-c67a15ea4e5d.md)
+[Gambit Tips](https://github.com/snowstormclan/Welcome-Packet/blob/master/Gambit-Tips.md)
 
 ---
 
 # Raid Info
 
-[Last Wish](./Last-Wish-f4c9ca42-2fb0-483c-9e9c-cefd1330caa2.md)
+[Last Wish](https://github.com/snowstormclan/Welcome-Packet/blob/master/Last-Wish.md)
 
 ---
 
