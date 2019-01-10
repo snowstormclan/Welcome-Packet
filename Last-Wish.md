@@ -21,3 +21,5 @@
 ![](WishingWall-7730ff1d-6c7c-4fa8-b560-9d74234fb1af.jpg)
 
 Full sized Image here: [https://i.imgur.com/lsLd5LF.jpg](https://i.imgur.com/lsLd5LF.jpg)
+
+[Back to Home](https://github.com/snowstormclan/Welcome-Packet/blob/master/README.md)
