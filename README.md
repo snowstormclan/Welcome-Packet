@@ -13,19 +13,19 @@ If you have any suggestions or feedback for the guide please share them in Disco
 
 # Using Discord LFG
 
-[How to Use Charlemagne LFG](https://github.com/snowstormclan/Welcome-Packet/blob/master/How-to-Use-Charlemagne-LFG.md)
+[How to Use Charlemagne LFG](https://snowstormclan.github.io/Welcome-Packet/How-to-Use-Charlemagne-LFG)
 
 ---
 
 # How to Switch to EU (and why we do it):
 
-[Blind Well & Escalation Protocol Trick](https://github.com/snowstormclan/Welcome-Packet/blob/master/Blind-Well-Escalation-Protocol-Trick.md)
+[Blind Well & Escalation Protocol Trick](https://snowstormclan.github.io/Welcome-Packet/Blind-Well-Escalation-Protocol-Trick)
 
 ---
 
 # Clan XP & Inactivity
 
-[Clan Explanation](https://github.com/snowstormclan/Welcome-Packet/blob/master/Clan-Explanation.md)
+[Clan Explanation](https://snowstormclan.github.io/Welcome-Packet/Clan-Explanation)
 
 ---
 
@@ -37,7 +37,7 @@ If you have any suggestions or feedback for the guide please share them in Disco
 
 # Raid Info
 
-[Last Wish](https://github.com/snowstormclan/Welcome-Packet/blob/master/Last-Wish.md)
+[Last Wish](https://snowstormclan.github.io/Welcome-Packet/Last-Wish)
 
 ---
 
