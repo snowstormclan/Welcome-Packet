@@ -31,7 +31,7 @@ If you have any suggestions or feedback for the guide please share them in Disco
 
 # Gambit
 
-[Gambit Tips](https://github.com/snowstormclan/Welcome-Packet/blob/master/Gambit-Tips.md)
+[Gambit Tips](https://github.com/snowstormclan/Welcome-Packet/blob/master/Gambit-Tips)
 
 ---
 
