@@ -38,4 +38,4 @@ A typical LFG listing looks like:
 If you make a mistake when creating your event you can edit via **`!lfg edit (listing number)`** or you can delete the event and start over **`!lfg delete (listing number)`**
 
 
-[Back to Home](https://github.com/snowstormclan/Welcome-Packet/blob/master/README.md)
+[Back to Home](https://snowstormclan.github.io/Welcome-Packet/)

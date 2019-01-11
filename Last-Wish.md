@@ -44,4 +44,4 @@
 <br>
 Full sized Image here: [https://i.imgur.com/lsLd5LF.jpg](https://i.imgur.com/lsLd5LF.jpg)
 <br>
-[Back to Home](https://github.com/snowstormclan/Welcome-Packet/blob/master/README.md)
+[Back to Home](https://snowstormclan.github.io/Welcome-Packet/)

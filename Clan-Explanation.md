@@ -6,4 +6,4 @@ Sometimes people decide to stop playing the game for a while, and that’s fine.
 
 If we do end up removing you for inactivity this does not mean that you are unwelcome to return. You may reapply again once you’re back on the grind. This is simply an effort to keep as many active people in the clan as possible, so that we can all enjoy doing activities together.
 
-[Back to Home](https://github.com/snowstormclan/Welcome-Packet/blob/master/README.md)
+[Back to Home](https://snowstormclan.github.io/Welcome-Packet/)
