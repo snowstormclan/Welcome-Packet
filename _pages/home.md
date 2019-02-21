@@ -6,7 +6,7 @@ permalink: /
 <!---
 ![](Tricorn.jpg)
 --->
-<img src="Tricorn.jpg" width="300"/>
+<img src="assets/images/Tricorn.jpg" width="300"/>
 
 # Introduction
 
