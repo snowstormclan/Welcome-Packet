@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "Home"
+    url: /_pages/home/
+  - title: "About the Clan"
+    url: /_pages/Clain-Explain/
+  - title: "Raid Guides"
+    url: /_pages/Raid-Guides/
+  - title: "How to Use LFG"
+    url: /_pages/Charlemagne/
+  - title: "Gambit Tips"
+    url: /_pages/Gambit/
+  - title: "Blind Well & Escalation Protocol"
+    url: /_pages/Blind-Well/
