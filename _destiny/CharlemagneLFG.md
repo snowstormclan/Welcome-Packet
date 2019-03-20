@@ -1,3 +1,9 @@
+---
+title: "Charlemagne LFG usage"
+permalink: /destiny/CharlemagneLFG/
+# excerpt: "How the theme is organized and what all of the files are for."
+---
+
 # How to Use Charlemagne LFG
 
 Charlemagne is a powerful tool for putting together groups on a whim, and doesn’t require an additional sign-up on a separate website like the100. You can create listings directly in Discord.

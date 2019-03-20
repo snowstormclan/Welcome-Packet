@@ -1,3 +1,9 @@
+---
+title: "Gambit Tips"
+permalink: /destiny/Gambit-Tips/
+# excerpt: "How the theme is organized and what all of the files are for."
+---
+
 # Gambit Tips
 
 ![](Gambit-876cb2d5-ec25-4ee6-8978-2ad5d5b71861.jpg)

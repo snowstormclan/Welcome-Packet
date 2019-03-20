@@ -1,3 +1,9 @@
+---
+title: "Last Wish Guides"
+permalink: /destiny/Last-Wish/
+# excerpt: "How the theme is organized and what all of the files are for."
+---
+
 # Last Wish
 
 ## Callouts

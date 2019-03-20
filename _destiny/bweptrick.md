@@ -1,7 +1,7 @@
 ---
 title: "Swapping to EU"
-permalink: /docs/bweptrick/
-excerpt: "How the theme is organized and what all of the files are for."
+permalink: /destiny/bweptrick/
+# excerpt: "How the theme is organized and what all of the files are for."
 ---
 
 # Blind Well & Escalation Protocol Trick
