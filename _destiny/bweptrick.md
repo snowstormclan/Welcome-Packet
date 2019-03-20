@@ -1,3 +1,9 @@
+---
+title: "Swapping to EU"
+permalink: /docs/bweptrick/
+excerpt: "How the theme is organized and what all of the files are for."
+---
+
 # Blind Well & Escalation Protocol Trick
 
 ![](image5-f57fa56f-a129-4592-b4d1-f5dcf3caf20e.png)
