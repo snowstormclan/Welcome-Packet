@@ -1,14 +1,14 @@
 # main links
 main:
   - title: "Home"
-    url: /_pages/home/
+    url: /_destiny/welcome/
   - title: "About the Clan"
-    url: /_pages/Clain-Explain/
+    url: /_destiny/Clain-Explanation/
   - title: "Raid Guides"
-    url: /_pages/Raid-Guides/
+    url: /_destiny/Last-Wish/
   - title: "How to Use LFG"
-    url: /_pages/Charlemagne/
+    url: /_destiny/CharlemagneLFG/
   - title: "Gambit Tips"
-    url: /_pages/Gambit/
+    url: /_destiny/Gambit-Tips/
   - title: "Blind Well & Escalation Protocol"
-    url: /_pages/Blind-Well/
+    url: /_destiny/bweptrick/
