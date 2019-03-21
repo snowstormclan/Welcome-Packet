@@ -22,6 +22,7 @@ A typical LFG listing looks like:
 
 ![](https://snowstormclan.github.io/Welcome-Packet/destiny/assets/images/image1-0a4421da-2f54-4355-932f-b9ff98f937f5.png)
 
+![]({{site.github.url}}/assets/images/image1-0a4421da-2f54-4355-932f-b9ff98f937f5.png)
 
 1. The activity, and the goals/requirements as decided by the creator
 2. The start time and date
