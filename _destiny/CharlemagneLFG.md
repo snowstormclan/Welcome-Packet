@@ -1,6 +1,7 @@
 ---
 title: "Charlemagne LFG usage"
 permalink: /destiny/CharlemagneLFG/
+taxonomy: markup
 # excerpt: "How the theme is organized and what all of the files are for."
 ---
 
