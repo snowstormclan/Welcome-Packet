@@ -6,7 +6,7 @@ permalink: /destiny/Gambit-Tips/
 
 # Gambit Tips
 
-![](Gambit-876cb2d5-ec25-4ee6-8978-2ad5d5b71861.jpg)
+![](https://snowstormclan.github.io/Welcome-Packet/destiny/assets/images/Gambit-876cb2d5-ec25-4ee6-8978-2ad5d5b71861.jpg)
 
 Not covered in the above graphic
 
