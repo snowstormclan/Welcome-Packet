@@ -20,7 +20,7 @@ To delete your LFG: `!lfg delete (listing number)`
 
 A typical LFG listing looks like:
 
-![](image1-0a4421da-2f54-4355-932f-b9ff98f937f5.png)
+![](/assets/images/image1-0a4421da-2f54-4355-932f-b9ff98f937f5.png)
 
 <figure class="half">
  <a href="{{ site.baseurl }}/assets/images/image1-0a4421da-2f54-4355-932f-b9ff98f937f5.png"><img src="{{ site.baseurl }}/assets/images/image1-0a4421da-2f54-4355-932f-b9ff98f937f5.png"></a>
