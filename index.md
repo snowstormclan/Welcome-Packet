@@ -17,13 +17,11 @@ feature_row:
   - image_path: Division-2.jpg
     alt: "Division 2 Logo"
     title: "Division 2"
-    type: "left"
     excerpt: "This is for where our Division information is."
   - image_path: /Destinylogo2.png
 #    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "Destiny 2 Logo"
     title: "Destiny 2"
-    type: "right"
     excerpt: "This is for where our Destiny information is."
     url: "_destiny"
     btn_label: "Read More"
@@ -59,7 +57,7 @@ feature_row:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row %}
+{% include feature_row type="center" %}
 
 <!--
 {% include feature_row id="feature_row2" type="left" %}
