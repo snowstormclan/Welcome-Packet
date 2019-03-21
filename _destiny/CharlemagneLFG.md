@@ -22,6 +22,8 @@ A typical LFG listing looks like:
 
 ![](/destiny/assets/images/image1-0a4421da-2f54-4355-932f-b9ff98f937f5.png)
 
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/image1-0a4421da-2f54-4355-932f-b9ff98f937f5.png){: .align-center}
+
 
 1. The activity, and the goals/requirements as decided by the creator
 2. The start time and date
