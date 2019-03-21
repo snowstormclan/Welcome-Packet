@@ -23,7 +23,7 @@ feature_row:
     alt: "Destiny 2 Logo"
     title: "Destiny 2"
     excerpt: "This is for where our Destiny information is."
-    url: "_destiny"
+    url: "_destiny/welcome"
     btn_label: "Read More"
     btn_class: "btn--primary"
 #  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
