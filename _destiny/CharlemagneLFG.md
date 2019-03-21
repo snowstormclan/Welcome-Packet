@@ -20,7 +20,7 @@ To delete your LFG: `!lfg delete (listing number)`
 
 A typical LFG listing looks like:
 
-![](/assets/images/image1-0a4421da-2f54-4355-932f-b9ff98f937f5.png)
+![](/destiny/assets/images/image1-0a4421da-2f54-4355-932f-b9ff98f937f5.png)
 
 
 1. The activity, and the goals/requirements as decided by the creator
