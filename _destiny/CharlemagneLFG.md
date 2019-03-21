@@ -22,8 +22,6 @@ A typical LFG listing looks like:
 
 ![](https://snowstormclan.github.io/Welcome-Packet/destiny/assets/images/image1-0a4421da-2f54-4355-932f-b9ff98f937f5.png)
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/image1-0a4421da-2f54-4355-932f-b9ff98f937f5.png){: .align-center}
-
 
 1. The activity, and the goals/requirements as decided by the creator
 2. The start time and date
@@ -38,7 +36,7 @@ A typical LFG listing looks like:
 1. Use **`!lfg create`** in the `#lfg-clan channel`, let the system load the questions.
 2. Click the Discord **reaction**  to the corresponding option you want.
 
-    ![](lfgcreate-18ec6ad5-d935-4908-8dcb-0d4aca1c396f.png)
+    ![](https://snowstormclan.github.io/Welcome-Packet/destiny/assets/images/lfgcreate-18ec6ad5-d935-4908-8dcb-0d4aca1c396f.png)
 
     1. If the option you want isn't listed use the arrows to paginate.
     2. You may have to wait for Charlemagne to add all the reactions first before it will respond to input.
