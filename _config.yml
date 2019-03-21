@@ -315,3 +315,7 @@ defaults:
       related: true
       sidebar:
         nav: "destiny"
+  - scope:
+      path: "assets/images"
+    values:
+      image: true
