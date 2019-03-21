@@ -19,7 +19,7 @@ If you have any suggestions or feedback for the guide please share them in Disco
 
 # Using Discord LFG
 
-[How to Use Charlemagne LFG](https://github.com/snowstormclan/Welcome-Packet/blob/master/_destiny/CharlemagneLFG.md)
+[How to Use Charlemagne LFG]({{ "/destiny/CharlemagneLFG/" | relative_url }})
 
 ---
 
@@ -31,19 +31,19 @@ If you have any suggestions or feedback for the guide please share them in Disco
 
 # Clan XP & Inactivity
 
-[Clan Explanation](https://github.com/snowstormclan/Welcome-Packet/blob/master/_destiny/Clan-Explanation.md)
+[Clan Explanation]({{ "/destiny/Clan-Explanation/" | relative_url }})
 
 ---
 
 # Gambit
 
-[Gambit Tips](https://github.com/snowstormclan/Welcome-Packet/blob/master/_destiny/Gambit-Tips.md)
+[Gambit Tips]({{ "/destiny/Gambit-Tips/" | relative_url }})
 
 ---
 
 # Raid Info
 
-[Last Wish](https://github.com/snowstormclan/Welcome-Packet/blob/master/_destiny/Last-Wish.md)
+[Last Wish]({{ "/destiny/Last-Wish/" | relative_url }})
 
 ---
 
