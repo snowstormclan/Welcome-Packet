@@ -20,7 +20,7 @@ To delete your LFG: `!lfg delete (listing number)`
 
 A typical LFG listing looks like:
 
-![]({{ site.url }}/destiny/assets/images/image1-0a4421da-2f54-4355-932f-b9ff98f937f5.png)
+![](https://snowstormclan.github.io/Welcome-Packet/destiny/assets/images/image1-0a4421da-2f54-4355-932f-b9ff98f937f5.png)
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/image1-0a4421da-2f54-4355-932f-b9ff98f937f5.png){: .align-center}
 
