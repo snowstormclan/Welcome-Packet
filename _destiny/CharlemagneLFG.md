@@ -22,6 +22,10 @@ A typical LFG listing looks like:
 
 ![](image1-0a4421da-2f54-4355-932f-b9ff98f937f5.png)
 
+<figure class="half">
+ <a href="{{ site.baseurl }}/assets/images/image1-0a4421da-2f54-4355-932f-b9ff98f937f5.png"><img src="{{ site.baseurl }}/assets/images/image1-0a4421da-2f54-4355-932f-b9ff98f937f5.png"></a>
+ </figure>
+
 1. The activity, and the goals/requirements as decided by the creator
 2. The start time and date
 3. The join ID that you can type in !lfg join (listing ID)
