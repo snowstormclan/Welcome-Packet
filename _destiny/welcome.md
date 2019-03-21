@@ -1,4 +1,17 @@
+---
+layout: splash
+taxonomy: markup
+title: "Destiny Home Page"
+permalink: /destiny/welcome/
+author_profile: false
+---
+
 # Snowstorm Welcome Packet
+
+<!---
+![](Tricorn.jpg)
+--->
+<img src="Tricorn.jpg" width="300"/>
 
 # Introduction
 
@@ -8,31 +21,31 @@ If you have any suggestions or feedback for the guide please share them in Disco
 
 # Using Discord LFG
 
-[How to Use Charlemagne LFG](./How-to-Use-Charlemagne-LFG-aab0966f-7108-41fa-a258-9a9560d6f63d.md)
+[How to Use Charlemagne LFG]({{ "/destiny/CharlemagneLFG/" | relative_url }})
 
 ---
 
 # How to Switch to EU (and why we do it):
 
-[Blind Well & Escalation Protocol Trick](./Blind-Well-Escalation-Protocol-Trick-ea0bb914-ba16-476c-ac4a-fee55f509469.md)
+[Blind Well & Escalation Protocol Trick]({{ "/destiny/bweptrick/" | relative_url }})
 
 ---
 
 # Clan XP & Inactivity
 
-[Clan Explanation](./Clan-Explanation-60f4601c-aed9-4559-869b-24f92f9ffc64.md)
+[Clan Explanation]({{ "/destiny/Clan-Explanation/" | relative_url }})
 
 ---
 
 # Gambit
 
-[Gambit Tips](./Gambit-Tips-a2b3d325-3d24-4fa0-a576-c67a15ea4e5d.md)
+[Gambit Tips]({{ "/destiny/Gambit-Tips/" | relative_url }})
 
 ---
 
 # Raid Info
 
-[Last Wish](./Last-Wish-f4c9ca42-2fb0-483c-9e9c-cefd1330caa2.md)
+[Last Wish]({{ "/destiny/Last-Wish/" | relative_url }})
 
 ---
 
