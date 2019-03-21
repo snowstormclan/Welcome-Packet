@@ -25,7 +25,7 @@ If you have any suggestions or feedback for the guide please share them in Disco
 
 # How to Switch to EU (and why we do it):
 
-[Blind Well & Escalation Protocol Trick](https://github.com/snowstormclan/Welcome-Packet/blob/master/_destiny/bweptrick.md)
+[Blind Well & Escalation Protocol Trick](/destiny/bweptrick/)
 
 ---
 
