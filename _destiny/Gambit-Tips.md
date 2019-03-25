@@ -1,4 +1,6 @@
 ---
+layout:  tag
+taxonomy: markup
 title: "Gambit Tips"
 permalink: /destiny/Gambit-Tips/
 # excerpt: "How the theme is organized and what all of the files are for."

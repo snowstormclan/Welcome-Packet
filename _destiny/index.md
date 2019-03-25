@@ -1,4 +1,6 @@
 ---
+layout:  tag
+taxonomy: markup
 title: "Home"
 permalink: /destiny/index/
 excerpt: "Overview of the site."

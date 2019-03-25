@@ -1,4 +1,6 @@
 ---
+layout:  tag
+taxonomy: markup
 title: "Clan Explanation"
 permalink: /destiny/Clan-Explanation/
 # excerpt: "How the theme is organized and what all of the files are for."
