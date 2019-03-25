@@ -290,9 +290,9 @@ collections:
   destiny:
     output: true
     permalink: /destiny/:path/
-#  recipes:
-#    output: true
-#    permalink: /:collection/:path/
+  division:
+    output: true
+    permalink: /:collection/:path/
 #  pets:
 #    output: true
 #    permalink: /:collection/:path/
