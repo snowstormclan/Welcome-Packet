@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: tag
 taxonomy: markup
 title: "Divison Home Page"
 permalink: /division/welcome/
