@@ -13,7 +13,7 @@ sidebar:
 <!---
 ![](Tricorn.jpg)
 --->
-<img src="Tricorn.jpg" width="300"/>
+<img src="https://github.com/snowstormclan/Welcome-Packet/blob/master/Tricorn.jpg" width="300"/>
 
 # Introduction
 
