@@ -289,7 +289,7 @@ compress_html:
 collections:
   destiny:
     output: true
-    permalink: /:collection/:path/
+    permalink: /destiny/:path/
 #  recipes:
 #    output: true
 #    permalink: /:collection/:path/
