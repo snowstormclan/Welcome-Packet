@@ -3,6 +3,8 @@ layout:  tag
 taxonomy: markup
 title: "Last Wish Guides"
 permalink: /destiny/Last-Wish/
+sidebar:
+  nav: "destiny"
 # excerpt: "How the theme is organized and what all of the files are for."
 ---
 

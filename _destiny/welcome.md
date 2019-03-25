@@ -4,6 +4,8 @@ taxonomy: markup
 title: "Destiny Home Page"
 permalink: /destiny/welcome/
 author_profile: false
+sidebar:
+  nav: "destiny"
 ---
 
 # Snowstorm Welcome Packet

@@ -3,6 +3,8 @@ layout:  tag
 taxonomy: markup
 title: "Swapping to EU"
 permalink: /destiny/bweptrick/
+sidebar:
+  nav: "destiny"
 # excerpt: "How the theme is organized and what all of the files are for."
 ---
 

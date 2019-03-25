@@ -3,6 +3,8 @@ layout:  tag
 taxonomy: markup
 title: "Clan Explanation"
 permalink: /destiny/Clan-Explanation/
+sidebar:
+  nav: "destiny"
 # excerpt: "How the theme is organized and what all of the files are for."
 ---
 

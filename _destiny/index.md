@@ -8,6 +8,8 @@ excerpt: "Overview of the site."
 redirect_from:
   - /
 toc: true
+sidebar:
+  nav: "destiny"
 ---
 
 # Snowstorm Welcome Packet

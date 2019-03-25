@@ -4,7 +4,8 @@ taxonomy: markup
 title: "Charlemagne LFG usage"
 permalink: /destiny/CharlemagneLFG/
 author_profile: false
-
+sidebar:
+  nav: "destiny"
 # excerpt: "How the theme is organized and what all of the files are for."
 ---
 
