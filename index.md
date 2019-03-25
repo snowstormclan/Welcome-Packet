@@ -13,13 +13,13 @@ header:
 excerpt: "Welcome to the home of the Snowstorm Family"
 intro:
   - excerpt: '"Friendship is our claim, family is our bond..."
-
+"\n\n"
   An unlikely assembly of heroes. Forging friendships from pages and pixels. United by a common desire to shape their own worlds, unleashing their imaginations, all in service of the epic adventure.
-
+"\n\n"
   We welcome all soldiers, scientists, adventurers and oddities to join us in our quest of bringing the light to where there is darkness.
-
+"\n\n"
   To fulfill our...
-
+"\n\n"
   Destiny. '
 feature_row:
   - image_path: Division-2.jpg
