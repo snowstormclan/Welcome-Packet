@@ -305,7 +305,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: destiny
+      type: collections
     values:
       layout: tag
       author_profile: false
