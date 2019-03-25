@@ -1,7 +1,10 @@
 ---
+layout:  tag
+taxonomy: markup
 title: "Charlemagne LFG usage"
 permalink: /destiny/CharlemagneLFG/
-#taxonomy: markup
+author_profile: false
+
 # excerpt: "How the theme is organized and what all of the files are for."
 ---
 
