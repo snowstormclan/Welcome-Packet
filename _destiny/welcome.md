@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: tag
 taxonomy: markup
 title: "Destiny Home Page"
 permalink: /destiny/welcome/
