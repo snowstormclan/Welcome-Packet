@@ -1,6 +1,6 @@
 ---
 title: "Home"
-permalink: /destiny/home/
+permalink: /destiny/index/
 excerpt: "Overview of the site."
 #last_modified_at: 2018-11-25T22:21:33-05:00
 redirect_from:
