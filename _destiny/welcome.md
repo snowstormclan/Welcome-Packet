@@ -10,11 +10,11 @@ sidebar:
 
 # Snowstorm Welcome Packet
 
-<!---
-![](Tricorn.jpg)
---->
-<img src="https://github.com/snowstormclan/Welcome-Packet/blob/master/Tricorn.jpg" width="300"/>
 
+![](https://github.com/snowstormclan/Welcome-Packet/blob/master/Tricorn.jpg)
+<!---
+<img src="https://github.com/snowstormclan/Welcome-Packet/blob/master/Tricorn.jpg" width="300"/>
+--->
 # Introduction
 
 Welcome to Snowstorm! If you’re reading this guide it's very likely you’re new to the clan. We use this guide to share useful information and resources for players new to the Clan.
