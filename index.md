@@ -12,11 +12,10 @@ header:
 #  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Welcome to the home of the Snowstorm Family"
 intro:
-  - excerpt: '"Friendship is our claim, family is our bond..."'
-  'An unlikely assembly of heroes. Forging friendships from pages and pixels. United by a common desire to shape their own worlds, unleashing their imaginations, all in service of the epic adventure.'
-  'We welcome all soldiers, scientists, adventurers and oddities to join us in our quest of bringing the light to where there is darkness.'
-  'To fulfill our...'
-  'Destiny. '
+  - excerpt: '"Friendship is our claim, family is our bond..." An unlikely assembly of heroes. Forging friendships from pages and pixels. United by a common desire to shape their own worlds, unleashing their imaginations, all in service of the epic adventure.
+  We welcome all soldiers, scientists, adventurers and oddities to join us in our quest of bringing the light to where there is darkness.
+  To fulfill our...
+  Destiny. '
 feature_row:
   - image_path: Division-2.jpg
     alt: "Division 2 Logo"
