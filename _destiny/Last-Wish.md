@@ -8,8 +8,6 @@ sidebar:
 # excerpt: "How the theme is organized and what all of the files are for."
 ---
 
-# Last Wish
-
 ## Callouts
 <details>
   <summary>Image</summary>

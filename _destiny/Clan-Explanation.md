@@ -8,7 +8,6 @@ sidebar:
 # excerpt: "How the theme is organized and what all of the files are for."
 ---
 
-# Clan Explanation
 
 Each Season the clan system in Destiny 2 allows our clan to level up via an XP system. Each character has a individual cap of 5,000 XP and the clan has a weekly cap for all characters. As of Season 4 XP is gained by visiting Hawthorne in the Tower/Farm and collecting Clan XP bounties. Turning these bounties in will reward you with Clan XP.
 

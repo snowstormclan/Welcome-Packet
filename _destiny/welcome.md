@@ -8,10 +8,8 @@ sidebar:
   nav: "destiny"
 ---
 
-# Snowstorm Welcome Packet
+![](https://snowstormclan.github.io//Welcome-Packet/blob/master/Tricorn.jpg)
 
-
-![](https://github.com/snowstormclan/Welcome-Packet/blob/master/Tricorn.jpg)
 <!---
 <img src="https://github.com/snowstormclan/Welcome-Packet/blob/master/Tricorn.jpg" width="300"/>
 --->

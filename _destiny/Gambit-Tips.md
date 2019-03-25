@@ -8,7 +8,6 @@ sidebar:
 # excerpt: "How the theme is organized and what all of the files are for."
 ---
 
-# Gambit Tips
 
 ![](https://snowstormclan.github.io/Welcome-Packet/destiny/assets/images/Gambit-876cb2d5-ec25-4ee6-8978-2ad5d5b71861.jpg)
 
