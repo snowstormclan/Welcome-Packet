@@ -302,10 +302,10 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
+  # _destiny
   - scope:
       path: ""
-      type: collections
+      type: destiny
     values:
       layout: tag
       author_profile: false
@@ -315,6 +315,19 @@ defaults:
       related: true
       sidebar:
         nav: "destiny"
+  # _division
+  - scope:
+      path: ""
+      type: division
+    values:
+      layout: tag
+      author_profile: false
+      read_time: false
+      comments: # true
+      share: true
+      related: true
+      sidebar:
+        nav: "division"  
   - scope:
       path: "assets/images"
     values:

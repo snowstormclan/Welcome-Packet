@@ -1,6 +1,21 @@
 # main links
 main:
   - title: "Home"
+    url: /index.md
+  - title: "About the Clan"
+#    url: /destiny/Clan-Explanation/
+  - title: "Destiny"
+    url: /destiny/welcome/
+  - title: "Divison"
+    url: /division/welcome/
+#  - title: "Gambit Tips"
+#    url: /destiny/Gambit-Tips/
+#  - title: "Blind Well & Escalation Protocol"
+#    url: /destiny/bweptrick/
+
+# destiny links
+destiny:
+  - title: "Home"
     url: /destiny/welcome/
   - title: "About the Clan"
     url: /destiny/Clan-Explanation/
@@ -12,3 +27,8 @@ main:
     url: /destiny/Gambit-Tips/
   - title: "Blind Well & Escalation Protocol"
     url: /destiny/bweptrick/
+
+# division links
+division:
+  - title: "Home"
+    url: /destiny/welcome/
