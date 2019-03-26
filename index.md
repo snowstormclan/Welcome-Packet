@@ -17,17 +17,18 @@ intro:
   To fulfill our...
   Destiny. '
 feature_row:
-  - image_path: Division-2.jpg
-    alt: "Division 2 Logo"
-    title: "Division 2"
-    excerpt: "This is for where our Division information is."
-    url: "division/welcome"
-  - image_path: /Destinylogo2.png
+- image_path: /Destinylogo2.png
 #    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "Destiny 2 Logo"
-    title: "Destiny 2"
-    excerpt: "This is for where our Destiny information is."
-    url: "destiny/welcome"
+  alt: "Destiny 2 Logo"
+  title: "Destiny 2"
+  excerpt: "This is for where our Destiny information is."
+  url: "destiny/welcome"
+- image_path: Division-2.jpg
+  alt: "Division 2 Logo"
+  title: "Division 2"
+  excerpt: "This is for where our Division information is."
+  url: "division/welcome"
+
 #    btn_label: "Read More"
 #    btn_class: "btn--primary"
 #  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
