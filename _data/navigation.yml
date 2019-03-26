@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: /
   - title: "About the Clan"
-#    url: /destiny/Clan-Explanation/
+    url: /about/index
   - title: "Destiny"
     url: /destiny/welcome/
   - title: "Divison"
