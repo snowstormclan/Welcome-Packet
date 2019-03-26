@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /snowstormlogo.png
 excerpt: "Welcome to the home of the Snowstorm Family"
-intro:
+about:
   - excerpt: 'This is a placeholder page for the About Us information.'
 
 ---
