@@ -1,7 +1,7 @@
 ---
 title: "About Snow Storm"
 layout: splash
-permalink: /about/index/
+permalink: /about/about/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
